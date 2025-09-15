@@ -13,8 +13,11 @@
 
 <h2>✨ Funcionalidades</h2>
 <ul>
-  <li>Venda de Software por encomenda</li>
-  <li></li>
+  <li>Venda de Software sob medida</li>
+  <li>Vender planos personalizado</li>
+  <li>Blog com notícias, curiosidades e novidades sobre tecnologia</li>
+  <li>Divulgação de redes sociais da empresa</li>
+  <li>Contato por email</li>
 </ul>
 
 <h2>⚙️ Detalhes Técnicos</h2>
