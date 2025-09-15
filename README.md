@@ -14,7 +14,7 @@
 <h2>✨ Funcionalidades</h2>
 <ul>
   <li>Venda de Software sob medida</li>
-  <li>Vender planos personalizado</li>
+  <li>Vender planos personalizados</li>
   <li>Blog com notícias, curiosidades e novidades sobre tecnologia</li>
   <li>Divulgação de redes sociais da empresa</li>
   <li>Contato por email</li>
@@ -22,12 +22,13 @@
 
 <h2>⚙️ Detalhes Técnicos</h2>
 <ul>
-  <li>Carousel utilizado</li>
-  <li>:hover utilizado</li>
-  <li>background-attachment: fixed utilizado</li>
-  <li>responsivo para todas as telas</li>
-  <li>estrutura do html semântica</li>
-  <li>transform: rotate(30deg) para rotacionar imagem</li>
-  <li>footer bem estruturado</li>
-  <li>flex box utilizado</li>
+  <li>Pré-processador Sass utilizado para aperfeiçoar o CSS</li>
+  <li>fonte utlizada do google fonts</li>
+  <li>sintaxe scss utilizada</li>
+  <li>comando sass --watch seu_arquivo.scss:seu_arquivo.css para alterar e converter para css</li>
+  <li>CSS totalmente organizado em arquivos scss, sendo importados no arquivo principal scss</li>
+  <li>variáveis criadas com scss</li>
+  <li>@mixins e @functions utlizados com se fossem funções</li>
+  <li>responsivo para todas as telas feito com scss usando @media</li>
+  <li>@include e @extend utilizados</li>
 </ul>
